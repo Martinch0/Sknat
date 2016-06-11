@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/team-project/A5/!svn/ver/302/TeamProject/src/junitTests
+END
+NetworkingTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/team-project/A5/!svn/ver/100/TeamProject/src/junitTests/NetworkingTests.java
+END
+GameServerTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/team-project/A5/!svn/ver/302/TeamProject/src/junitTests/GameServerTests.java
+END
+ClientParseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/team-project/A5/!svn/ver/288/TeamProject/src/junitTests/ClientParseTest.java
+END
+ServerParseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/team-project/A5/!svn/ver/288/TeamProject/src/junitTests/ServerParseTest.java
+END
